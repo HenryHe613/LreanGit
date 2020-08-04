@@ -24,5 +24,8 @@ git merge <branch_name>
 git checkout -d <branch_name>
 git switch -c <branch_name>
 git switch <branch_name>
+git log --graph --pretty=oneline --abbrev-commit
 
-this branch master
+
+
+git switch -d <commit_name>
