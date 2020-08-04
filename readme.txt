@@ -24,3 +24,5 @@ git merge <branch_name>
 git checkout -d <branch_name>
 git switch -c <branch_name>
 git switch <branch_name>
+
+this is dev branch
