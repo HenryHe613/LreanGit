@@ -25,6 +25,8 @@ git checkout -d <branch_name>
 git switch -c <branch_name>
 git switch <branch_name>
 git log --graph --pretty=oneline --abbrev-commit
+git merge --no-ff -m "something commit" <branch_name>
+git cherry-pick 4c805e2
 
 
 
